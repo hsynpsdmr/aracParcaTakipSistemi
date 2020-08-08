@@ -1,0 +1,49 @@
+﻿***
+Parca :
+TÜR
+Otomobil
+KATEGORİ
+﻿Motor
+AD
+Motor Kapağı
+STOK
+35
+FİYAT
+100
+***
+Parca :
+TÜR
+Kamyon
+KATEGORİ
+﻿Şanzıman
+AD
+asd
+STOK
+15
+FİYAT
+0.75
+***
+Parca :
+TÜR
+Otomobil
+KATEGORİ
+﻿Motor
+AD
+asd
+STOK
+52
+FİYAT
+26.0
+***
+Parca :
+TÜR
+Kamyon
+KATEGORİ
+﻿Şanzıman
+AD
+asda
+STOK
+20
+FİYAT
+15.0
+***
