@@ -18,7 +18,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Seyf
+ * @author hsynpsdmr
  */
 public class AracParcaTakipSistemi extends Application {
     

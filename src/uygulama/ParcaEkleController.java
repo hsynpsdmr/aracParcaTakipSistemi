@@ -30,7 +30,7 @@ import siniflar.TraktorParcasi;
 
 /**
  *
- * @author Seyf
+ * @author hsynpsdmr
  */
 public class ParcaEkleController {
 

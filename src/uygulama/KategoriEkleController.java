@@ -17,7 +17,7 @@ import javafx.scene.control.TextField;
 
 /**
  *
- * @author Seyf
+ * @author hsynpsdmr
  */
 public class KategoriEkleController {
     public ComboBox<String> aracTuruBox;

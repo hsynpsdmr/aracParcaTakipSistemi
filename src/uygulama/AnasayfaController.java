@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Seyf
+ * @author hsynpsdmr
  */
 public class AnasayfaController {
 

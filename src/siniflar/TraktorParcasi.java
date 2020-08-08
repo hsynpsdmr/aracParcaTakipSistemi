@@ -7,7 +7,7 @@ package siniflar;
 
 /**
  *
- * @author Seyf
+ * @author hsynpsdmr
  */
 public class TraktorParcasi extends ParcaTurleri implements ParcaInterface {
    public TraktorParcasi(){

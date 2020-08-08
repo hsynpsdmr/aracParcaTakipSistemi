@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Seyf
+ * @author hsynpsdmr
  */
 public class MesajKutusu {
     public static void mesajGoster(String mesaj){
